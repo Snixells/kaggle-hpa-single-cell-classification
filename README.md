@@ -57,4 +57,9 @@ Label - in the training data, this represents the labels assigned to each sample
 ## Model
 
 
+## Ideas on how to solve that
+* [] Classification for each Combination of labels (lots of labels)
+* [] Classification for each Label the Image has (on its own)
+* [] Classification on a Cell Basis 
+
 
